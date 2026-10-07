@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+data/
+tokenizer/
+outputs/
+smoke_tokenizer/
+smoke_outputs/
+*.pt
+*.zip
